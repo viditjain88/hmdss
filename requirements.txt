@@ -1,0 +1,8 @@
+crewai
+torch
+pandas
+numpy
+scikit-learn
+joblib
+fpdf
+pydantic
